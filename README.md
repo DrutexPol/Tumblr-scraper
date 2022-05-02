@@ -1,5 +1,5 @@
 # Tumblr-scraper
-Free open source scraper and expiration checker.
+Free open source Tumblr account scraper and expiration checker.
 Features:
 - multi-threaded scraping from bing
 - multi-threaded expiration checking
